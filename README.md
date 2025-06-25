@@ -24,5 +24,7 @@ These projects highlight the versatility of data science in solving diverse prob
 
 🙋‍♂️ Author
 Akshit Singh
+
 Data Science Internship at Unified Mentor
+
 Feel free to connect or reach out for collaboration or feedback!
