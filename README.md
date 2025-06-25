@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/184e4de2-e7dc-49f3-8bf0-687fc373e32e)
 # UNIFIED_MENTOR_PROJECTS
 This repository contains projects that I completed during the DATA SCIENCE internship with UNIFIED MENTOR. The dataset is being given by 'UNIFIED MENTOR' for using in the project.
 
@@ -23,8 +24,8 @@ From understanding global climate trends to predicting customer satisfaction, th
 These projects highlight the versatility of data science in solving diverse problems and can be extended further for real-time applications or deeper analysis.
 
 🙋‍♂️ Author
-Akshit Singh
+Akshit Singh,
 
-Data Science Internship at Unified Mentor
+Data Science Internship at Unified Mentor,
 
 Feel free to connect or reach out for collaboration or feedback!
