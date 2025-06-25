@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dd5c0815-6e33-4655-a938-94c840003ccc)# UNIFIED_MENTOR_PROJECTS
+# UNIFIED_MENTOR_PROJECTS
 This repository contains projects that I completed during the DATA SCIENCE internship with UNIFIED MENTOR. The dataset is being given by 'UNIFIED MENTOR' for using in the project.
 **PROJECT 1** CLIMATE CHANGE MODELLING
 **Climate Change Modelling** is a data science project aimed at analyzing climate trends and predicting future scenarios.
